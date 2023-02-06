@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="testorigen regression">
+    <parameter name="url" value="https://www.testorigen.com/"></parameter>
+    <test name="Home page">
+        <classes>
+            <class name="org.example.TestIlementHeaderHomePageDisplayed"></class>
+            <class name="org.example.TestFooter"></class>
+            <class name="org.example.TestHomePage"></class>
+            <class name="org.example.TestSubmitHomePage"></class>
+            <class name="org.example.TestContact"></class>
+            <class name="org.example.TestQaEtTestingVideoPage"></class>
+
+        </classes>
+    </test>
+</suite>

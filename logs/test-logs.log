@@ -1,0 +1,329 @@
+22:12:49.782 [main] INFO  org.example.TestContact - user land on contact page success
+22:12:49.824 [main] INFO  org.example.TestContact - Contact Info is displayed success
+22:12:49.857 [main] INFO  org.example.TestContact - facebook icon is displayed success
+22:12:49.882 [main] INFO  org.example.TestContact - twitter icon is displayed success
+22:12:49.905 [main] INFO  org.example.TestContact - linkedin icon is displayed success
+22:12:49.929 [main] INFO  org.example.TestContact - form is displayed success
+23:21:30.252 [main] INFO  org.example.TestContact - userName is displayed
+23:21:30.285 [main] INFO  org.example.TestContact - emailField is displayed
+23:21:30.313 [main] INFO  org.example.TestContact - phoneField is displayed
+23:21:30.339 [main] INFO  org.example.TestContact - messageTextArea is displayed
+23:21:30.368 [main] INFO  org.example.TestContact - submit Button is displayed
+23:21:39.278 [main] INFO  org.example.TestContact - page title validation success
+23:21:45.984 [main] INFO  org.example.TestContact - About Us is displayed success
+23:21:46.011 [main] INFO  org.example.TestContact - Services is displayed success
+23:21:46.035 [main] INFO  org.example.TestContact - Career is displayed success
+23:21:46.063 [main] INFO  org.example.TestContact - Blog is displayed success
+23:21:46.088 [main] INFO  org.example.TestContact - Request a quote is displayed success
+23:21:46.113 [main] INFO  org.example.TestContact - Resources is displayed success
+23:21:46.138 [main] INFO  org.example.TestContact - Contact is displayed success
+23:21:46.164 [main] INFO  org.example.TestContact - number phone header is displayed success
+23:21:46.188 [main] INFO  org.example.TestContact - email header is displayed success
+23:21:46.216 [main] INFO  org.example.TestContact - facebookIcon is displayed success
+23:21:46.247 [main] INFO  org.example.TestContact - twitterIcon is displayed success
+23:21:46.271 [main] INFO  org.example.TestContact - linkedinIcon is displayed success
+23:23:46.645 [main] INFO  org.example.TestContact - userName is displayed
+23:23:46.682 [main] INFO  org.example.TestContact - emailField is displayed
+23:23:46.713 [main] INFO  org.example.TestContact - phoneField is displayed
+23:23:46.745 [main] INFO  org.example.TestContact - messageTextArea is displayed
+23:23:46.786 [main] INFO  org.example.TestContact - submit Button is displayed
+23:23:54.194 [main] INFO  org.example.TestContact - page title validation success
+23:24:00.385 [main] INFO  org.example.TestContact - About Us is displayed success
+23:24:00.430 [main] INFO  org.example.TestContact - Services is displayed success
+23:24:00.457 [main] INFO  org.example.TestContact - Career is displayed success
+23:24:00.480 [main] INFO  org.example.TestContact - Blog is displayed success
+23:24:00.506 [main] INFO  org.example.TestContact - Request a quote is displayed success
+23:24:00.529 [main] INFO  org.example.TestContact - Resources is displayed success
+23:24:00.555 [main] INFO  org.example.TestContact - Contact is displayed success
+23:24:00.580 [main] INFO  org.example.TestContact - number phone header is displayed success
+23:24:00.606 [main] INFO  org.example.TestContact - email header is displayed success
+23:24:00.630 [main] INFO  org.example.TestContact - facebookIcon is displayed success
+23:24:00.659 [main] INFO  org.example.TestContact - twitterIcon is displayed success
+23:24:00.684 [main] INFO  org.example.TestContact - linkedinIcon is displayed success
+23:25:06.483 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+23:25:06.546 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+23:25:06.622 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+23:25:06.719 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+23:25:12.834 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+23:25:19.725 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+23:25:21.014 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+23:25:21.070 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+23:25:21.162 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+23:25:27.746 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+23:25:34.244 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+23:25:34.859 [main] INFO  org.example.TestSubmitHomePage - enter email success
+23:25:34.928 [main] INFO  org.example.TestSubmitHomePage - enter phone number success
+23:25:35.018 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+23:25:41.119 [main] INFO  org.example.TestSubmitHomePage - sent message success
+23:25:47.354 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+23:25:47.829 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+23:25:47.896 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+23:25:47.989 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+23:25:54.535 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+23:26:01.114 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+23:26:01.560 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+23:26:01.641 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+23:26:01.720 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+23:26:07.828 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+12:47:54.590 [main] INFO  org.example.TestContact - userName is displayed
+12:47:54.623 [main] INFO  org.example.TestContact - emailField is displayed
+12:47:54.655 [main] INFO  org.example.TestContact - phoneField is displayed
+12:47:54.677 [main] INFO  org.example.TestContact - messageTextArea is displayed
+12:47:54.704 [main] INFO  org.example.TestContact - submit Button is displayed
+12:48:02.420 [main] INFO  org.example.TestContact - Know Button is displayed
+12:48:02.447 [main] INFO  org.example.TestContact - Read More Button is displayed
+12:48:08.958 [main] INFO  org.example.TestContact - About Us is displayed success
+12:48:09.035 [main] INFO  org.example.TestContact - Services is displayed success
+12:48:09.070 [main] INFO  org.example.TestContact - Career is displayed success
+12:48:09.099 [main] INFO  org.example.TestContact - Blog is displayed success
+12:48:09.126 [main] INFO  org.example.TestContact - Request a quote is displayed success
+12:48:09.154 [main] INFO  org.example.TestContact - Resources is displayed success
+12:48:09.178 [main] INFO  org.example.TestContact - Contact is displayed success
+12:48:09.205 [main] INFO  org.example.TestContact - number phone header is displayed success
+12:48:09.233 [main] INFO  org.example.TestContact - email header is displayed success
+12:48:09.259 [main] INFO  org.example.TestContact - facebookIcon is displayed success
+12:48:09.289 [main] INFO  org.example.TestContact - twitterIcon is displayed success
+12:48:09.313 [main] INFO  org.example.TestContact - linkedinIcon is displayed success
+12:48:18.412 [main] INFO  org.example.TestContact - page title validation success
+13:12:53.447 [main] INFO  org.example.TestContact - twitter time line footer is displayed success
+13:13:31.135 [main] INFO  org.example.TestContact - twitter time line footer is displayed success
+13:14:36.704 [main] INFO  org.example.TestContact - twitter time line footer is displayed success
+13:29:32.062 [main] INFO  org.example.TestContact - twitter time line footer is displayed success
+13:29:32.094 [main] INFO  org.example.TestContact - Follow Us footer is displayed success
+13:29:32.116 [main] INFO  org.example.TestContact - Footer Section is displayed success
+18:31:55.647 [main] INFO  org.example.TestContact - userName is displayed
+18:31:55.678 [main] INFO  org.example.TestContact - emailField is displayed
+18:31:55.710 [main] INFO  org.example.TestContact - phoneField is displayed
+18:31:55.733 [main] INFO  org.example.TestContact - messageTextArea is displayed
+18:31:55.761 [main] INFO  org.example.TestContact - submit Button is displayed
+18:32:10.965 [main] INFO  org.example.TestContact - Know Button is displayed
+18:32:10.995 [main] INFO  org.example.TestContact - Read More Button is displayed
+18:32:18.549 [main] INFO  org.example.TestContact - About Us is displayed success
+18:32:18.631 [main] INFO  org.example.TestContact - Services is displayed success
+18:32:18.657 [main] INFO  org.example.TestContact - Career is displayed success
+18:32:18.681 [main] INFO  org.example.TestContact - Blog is displayed success
+18:32:18.709 [main] INFO  org.example.TestContact - Request a quote is displayed success
+18:32:18.741 [main] INFO  org.example.TestContact - Resources is displayed success
+18:32:18.766 [main] INFO  org.example.TestContact - Contact is displayed success
+18:32:26.849 [main] INFO  org.example.TestContact - page title validation success
+18:35:08.859 [main] INFO  org.example.TestContact - userName is displayed
+18:35:08.891 [main] INFO  org.example.TestContact - emailField is displayed
+18:35:08.918 [main] INFO  org.example.TestContact - phoneField is displayed
+18:35:08.944 [main] INFO  org.example.TestContact - messageTextArea is displayed
+18:35:08.972 [main] INFO  org.example.TestContact - submit Button is displayed
+18:35:24.218 [main] INFO  org.example.TestContact - Know Button is displayed
+18:35:24.306 [main] INFO  org.example.TestContact - Read More Button is displayed
+18:35:31.155 [main] INFO  org.example.TestContact - About Us is displayed success
+18:35:31.237 [main] INFO  org.example.TestContact - Services is displayed success
+18:35:31.265 [main] INFO  org.example.TestContact - Career is displayed success
+18:35:31.290 [main] INFO  org.example.TestContact - Blog is displayed success
+18:35:31.319 [main] INFO  org.example.TestContact - Request a quote is displayed success
+18:35:31.350 [main] INFO  org.example.TestContact - Resources is displayed success
+18:35:31.387 [main] INFO  org.example.TestContact - Contact is displayed success
+18:36:13.304 [main] INFO  org.example.TestContact - userName is displayed
+18:36:13.349 [main] INFO  org.example.TestContact - emailField is displayed
+18:36:13.414 [main] INFO  org.example.TestContact - phoneField is displayed
+18:36:13.441 [main] INFO  org.example.TestContact - messageTextArea is displayed
+18:36:13.468 [main] INFO  org.example.TestContact - submit Button is displayed
+18:36:29.268 [main] INFO  org.example.TestContact - Know Button is displayed
+18:36:29.331 [main] INFO  org.example.TestContact - Read More Button is displayed
+18:36:36.263 [main] INFO  org.example.TestContact - About Us is displayed success
+18:36:36.339 [main] INFO  org.example.TestContact - Services is displayed success
+18:36:36.375 [main] INFO  org.example.TestContact - Career is displayed success
+18:36:36.401 [main] INFO  org.example.TestContact - Blog is displayed success
+18:36:36.427 [main] INFO  org.example.TestContact - Request a quote is displayed success
+18:36:36.458 [main] INFO  org.example.TestContact - Resources is displayed success
+18:36:36.484 [main] INFO  org.example.TestContact - Contact is displayed success
+18:36:45.036 [main] INFO  org.example.TestContact - page title validation success
+18:41:51.456 [main] INFO  org.example.TestContact - userName is displayed
+18:41:51.487 [main] INFO  org.example.TestContact - emailField is displayed
+18:41:51.517 [main] INFO  org.example.TestContact - phoneField is displayed
+18:41:51.540 [main] INFO  org.example.TestContact - messageTextArea is displayed
+18:41:51.573 [main] INFO  org.example.TestContact - submit Button is displayed
+18:49:33.056 [main] INFO  org.example.TestContact - user land on contact page success
+18:49:33.103 [main] INFO  org.example.TestContact - Contact Info is displayed success
+18:49:33.134 [main] INFO  org.example.TestContact - facebook icon is displayed success
+18:49:33.162 [main] INFO  org.example.TestContact - twitter icon is displayed success
+18:49:33.190 [main] INFO  org.example.TestContact - linkedin icon is displayed success
+18:49:33.216 [main] INFO  org.example.TestContact - form is displayed success
+18:50:00.967 [main] INFO  org.example.TestContact - twitter time line footer is displayed success
+18:50:01.002 [main] INFO  org.example.TestContact - Follow Us footer is displayed success
+18:50:01.029 [main] INFO  org.example.TestContact - Footer Section is displayed success
+18:50:35.027 [main] INFO  org.example.TestContact - userName is displayed
+18:50:35.062 [main] INFO  org.example.TestContact - emailField is displayed
+18:50:35.098 [main] INFO  org.example.TestContact - phoneField is displayed
+18:50:35.123 [main] INFO  org.example.TestContact - messageTextArea is displayed
+18:50:35.151 [main] INFO  org.example.TestContact - submit Button is displayed
+18:50:49.909 [main] INFO  org.example.TestContact - Know Button is displayed
+18:50:49.945 [main] INFO  org.example.TestContact - Read More Button is displayed
+18:50:56.755 [main] INFO  org.example.TestContact - About Us is displayed success
+18:50:56.790 [main] INFO  org.example.TestContact - Services is displayed success
+18:50:56.881 [main] INFO  org.example.TestContact - Career is displayed success
+18:50:56.910 [main] INFO  org.example.TestContact - Blog is displayed success
+18:50:56.937 [main] INFO  org.example.TestContact - Request a quote is displayed success
+18:50:56.962 [main] INFO  org.example.TestContact - Resources is displayed success
+18:50:56.988 [main] INFO  org.example.TestContact - Contact is displayed success
+18:51:05.798 [main] INFO  org.example.TestContact - page title validation success
+18:52:04.555 [main] INFO  org.example.TestQaEtTestingVideoPage - user land on Qa & testing Videos page success
+18:52:04.602 [main] INFO  org.example.TestQaEtTestingVideoPage - subscribe button is displayed success
+18:52:38.369 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+18:52:38.457 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+18:52:38.560 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+18:52:38.704 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+18:52:44.834 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+18:52:53.202 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+18:52:54.832 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+18:52:54.893 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+18:52:55.002 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+18:53:01.701 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+18:53:09.305 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+18:53:10.109 [main] INFO  org.example.TestSubmitHomePage - enter email success
+18:53:10.238 [main] INFO  org.example.TestSubmitHomePage - enter phone number success
+18:53:10.350 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+18:53:16.997 [main] INFO  org.example.TestSubmitHomePage - sent message success
+18:53:25.140 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+18:53:25.746 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+18:53:25.831 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+18:53:25.890 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+18:53:32.019 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+18:53:40.309 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+18:53:40.843 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+18:53:40.933 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+18:53:41.048 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+18:53:47.686 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+19:08:49.722 [main] INFO  org.example.TestContact - user land on contact page success
+19:08:49.770 [main] INFO  org.example.TestContact - Contact Info is displayed success
+19:08:49.805 [main] INFO  org.example.TestContact - facebook icon is displayed success
+19:08:49.830 [main] INFO  org.example.TestContact - twitter icon is displayed success
+19:08:49.858 [main] INFO  org.example.TestContact - linkedin icon is displayed success
+19:08:49.884 [main] INFO  org.example.TestContact - form is displayed success
+19:08:57.548 [main] INFO  org.example.TestContact - Name field contact is displayed
+19:08:57.577 [main] INFO  org.example.TestContact - Email Adresse field contact is displayed
+19:08:57.614 [main] INFO  org.example.TestContact - text Area Field contact is displayed
+19:08:57.664 [main] INFO  org.example.TestContact - send message button contact is displayed
+19:10:29.523 [main] INFO  org.example.TestContact - user land on contact page success
+19:10:29.575 [main] INFO  org.example.TestContact - Contact Info is displayed success
+19:10:29.605 [main] INFO  org.example.TestContact - facebook icon is displayed success
+19:10:29.631 [main] INFO  org.example.TestContact - twitter icon is displayed success
+19:10:29.657 [main] INFO  org.example.TestContact - linkedin icon is displayed success
+19:10:29.683 [main] INFO  org.example.TestContact - form is displayed success
+19:13:38.335 [main] INFO  org.example.TestContact - user land on contact page success
+19:13:38.386 [main] INFO  org.example.TestContact - Contact Info is displayed success
+19:13:38.415 [main] INFO  org.example.TestContact - facebook icon is displayed success
+19:13:38.443 [main] INFO  org.example.TestContact - twitter icon is displayed success
+19:13:38.472 [main] INFO  org.example.TestContact - linkedin icon is displayed success
+19:13:38.500 [main] INFO  org.example.TestContact - form is displayed success
+19:13:38.528 [main] INFO  org.example.TestContact - Name field contact is displayed
+19:13:38.551 [main] INFO  org.example.TestContact - Email Adresse field contact is displayed
+19:13:38.574 [main] INFO  org.example.TestContact - text Area Field contact is displayed
+19:13:38.596 [main] INFO  org.example.TestContact - send message button contact is displayed
+19:32:51.266 [main] INFO  org.example.TestContact - twitter time line footer is displayed success
+19:32:51.310 [main] INFO  org.example.TestContact - Follow Us footer is displayed success
+19:32:51.335 [main] INFO  org.example.TestContact - Footer Section is displayed success
+19:32:59.436 [main] INFO  org.example.TestContact - userName is displayed
+19:32:59.501 [main] INFO  org.example.TestContact - emailField is displayed
+19:32:59.530 [main] INFO  org.example.TestContact - phoneField is displayed
+19:32:59.553 [main] INFO  org.example.TestContact - messageTextArea is displayed
+19:32:59.577 [main] INFO  org.example.TestContact - submit Button is displayed
+19:33:15.023 [main] INFO  org.example.TestContact - Know Button is displayed
+19:33:15.062 [main] INFO  org.example.TestContact - Read More Button is displayed
+19:33:22.777 [main] INFO  org.example.TestContact - About Us is displayed success
+19:33:22.814 [main] INFO  org.example.TestContact - Services is displayed success
+19:33:22.841 [main] INFO  org.example.TestContact - Career is displayed success
+19:33:22.864 [main] INFO  org.example.TestContact - Blog is displayed success
+19:33:22.890 [main] INFO  org.example.TestContact - Request a quote is displayed success
+19:33:22.912 [main] INFO  org.example.TestContact - Resources is displayed success
+19:33:22.936 [main] INFO  org.example.TestContact - Contact is displayed success
+19:33:32.059 [main] INFO  org.example.TestContact - page title validation success
+19:33:39.962 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+19:33:40.016 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+19:33:40.093 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+19:33:40.184 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+19:33:46.279 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+19:33:54.618 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+19:33:55.076 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+19:33:55.133 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+19:33:55.224 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+19:34:01.325 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+19:34:09.513 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+19:34:09.948 [main] INFO  org.example.TestSubmitHomePage - enter email success
+19:34:10.023 [main] INFO  org.example.TestSubmitHomePage - enter phone number success
+19:34:10.113 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+19:34:16.220 [main] INFO  org.example.TestSubmitHomePage - sent message success
+19:34:24.393 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+19:34:24.878 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+19:34:24.949 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+19:34:25.007 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+19:34:31.280 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+19:34:39.410 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+19:34:39.774 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+19:34:39.842 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+19:34:39.926 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+19:34:46.399 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+19:35:03.816 [main] INFO  org.example.TestContact - user land on contact page success
+19:35:03.842 [main] INFO  org.example.TestContact - Contact Info is displayed success
+19:35:03.869 [main] INFO  org.example.TestContact - facebook icon is displayed success
+19:35:03.892 [main] INFO  org.example.TestContact - twitter icon is displayed success
+19:35:03.914 [main] INFO  org.example.TestContact - linkedin icon is displayed success
+19:35:03.937 [main] INFO  org.example.TestContact - form is displayed success
+19:35:03.960 [main] INFO  org.example.TestContact - Name field contact is displayed
+19:35:03.979 [main] INFO  org.example.TestContact - Email Adresse field contact is displayed
+19:35:03.999 [main] INFO  org.example.TestContact - text Area Field contact is displayed
+19:35:04.019 [main] INFO  org.example.TestContact - send message button contact is displayed
+19:35:24.273 [main] INFO  org.example.TestQaEtTestingVideoPage - user land on Qa & testing Videos page success
+19:35:24.300 [main] INFO  org.example.TestQaEtTestingVideoPage - subscribe button is displayed success
+19:55:04.946 [main] INFO  org.example.TestContact - twitter time line footer is displayed success
+19:55:05.032 [main] INFO  org.example.TestContact - Follow Us footer is displayed success
+19:55:05.062 [main] INFO  org.example.TestContact - Footer Section is displayed success
+19:55:12.482 [main] INFO  org.example.TestContact - userName is displayed
+19:55:12.554 [main] INFO  org.example.TestContact - emailField is displayed
+19:55:12.579 [main] INFO  org.example.TestContact - phoneField is displayed
+19:55:12.599 [main] INFO  org.example.TestContact - messageTextArea is displayed
+19:55:12.623 [main] INFO  org.example.TestContact - submit Button is displayed
+19:55:30.254 [main] INFO  org.example.TestContact - Know Button is displayed
+19:55:30.324 [main] INFO  org.example.TestContact - Read More Button is displayed
+19:55:38.575 [main] INFO  org.example.TestContact - About Us is displayed success
+19:55:38.605 [main] INFO  org.example.TestContact - Services is displayed success
+19:55:38.670 [main] INFO  org.example.TestContact - Career is displayed success
+19:55:38.694 [main] INFO  org.example.TestContact - Blog is displayed success
+19:55:38.719 [main] INFO  org.example.TestContact - Request a quote is displayed success
+19:55:38.742 [main] INFO  org.example.TestContact - Resources is displayed success
+19:55:38.764 [main] INFO  org.example.TestContact - Contact is displayed success
+19:55:47.924 [main] INFO  org.example.TestContact - page title validation success
+19:55:56.008 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+19:55:56.062 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+19:55:56.135 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+19:55:56.234 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+19:55:56.835 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+19:56:04.013 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+19:56:04.431 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+19:56:04.482 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+19:56:04.568 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+19:56:05.235 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+19:56:12.884 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+19:56:13.236 [main] INFO  org.example.TestSubmitHomePage - enter email success
+19:56:13.303 [main] INFO  org.example.TestSubmitHomePage - enter phone number success
+19:56:13.390 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+19:56:19.486 [main] INFO  org.example.TestSubmitHomePage - sent message success
+19:56:28.565 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+19:56:28.964 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+19:56:29.036 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+19:56:29.093 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+19:56:29.687 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+19:56:38.292 [main] INFO  org.example.TestSubmitHomePage - enter userName success
+19:56:38.691 [main] INFO  org.example.TestSubmitHomePage - enter emailField success
+19:56:38.833 [main] INFO  org.example.TestSubmitHomePage - enter phoneField success
+19:56:38.956 [main] INFO  org.example.TestSubmitHomePage - enter messageTextArea success
+19:56:45.434 [main] INFO  org.example.TestSubmitHomePage - error message validation success
+19:56:55.923 [main] INFO  org.example.TestContact - user land on contact page success
+19:56:57.043 [main] INFO  org.example.TestContact - Contact Info is displayed success
+19:56:57.069 [main] INFO  org.example.TestContact - facebook icon is displayed success
+19:56:57.099 [main] INFO  org.example.TestContact - twitter icon is displayed success
+19:56:57.123 [main] INFO  org.example.TestContact - linkedin icon is displayed success
+19:56:57.145 [main] INFO  org.example.TestContact - form is displayed success
+19:56:57.166 [main] INFO  org.example.TestContact - Name field contact is displayed
+19:56:57.183 [main] INFO  org.example.TestContact - Email Adresse field contact is displayed
+19:56:57.200 [main] INFO  org.example.TestContact - text Area Field contact is displayed
+19:56:57.217 [main] INFO  org.example.TestContact - send message button contact is displayed
+19:57:17.399 [main] INFO  org.example.TestQaEtTestingVideoPage - user land on Qa & testing Videos page success
+19:57:17.427 [main] INFO  org.example.TestQaEtTestingVideoPage - subscribe button is displayed success
